@@ -1,4 +1,6 @@
 ﻿# RAG-Based Question Answering System
+ (docmindragai)
+ 
 
 ## 1. Project Overview
 The RAG-Based Question Answering System allows users to upload documents and ask questions based on their content. The system retrieves relevant information from the uploaded document and generates context-based answers.
